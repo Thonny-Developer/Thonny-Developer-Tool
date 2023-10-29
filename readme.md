@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Screen](/image.png)
 
 # Thonny Developer Tools [BETA]
 
